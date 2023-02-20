@@ -1,0 +1,23 @@
+.div{
+    border: 2px solid  gray;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+.delbtn{
+    height: 80px;
+    width: 30%;
+    border: 2px solid gray;
+    display: flex;
+    margin-left: 30%;
+
+}
+.h1div{
+    display: flex;
+    float: left;
+}
+.Delbtn2{
+    display: flex;
+    float: right;
+    margin-left: 85px;
+}
